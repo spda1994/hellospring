@@ -20,6 +20,9 @@ public class Bidhaa {
         this.time = time;
     }
 
+    public Bidhaa() {
+    }
+
     public long getId() {
         return id;
     }

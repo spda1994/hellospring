@@ -21,7 +21,6 @@ public class BidhaaService {
 
 	public void addNewData(Bidhaa bidhaa) {
 		bidhaaDao.addNewData(bidhaa);
-		
 	}
 
 }
