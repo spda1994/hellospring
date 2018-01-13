@@ -1,6 +1,6 @@
 buildscript {
 	ext {
-		springBootVersion = '1.5.8.RELEASE'
+		springBootVersion = '1.5.9.RELEASE'
 	}
 	repositories {
 		mavenCentral()
@@ -24,7 +24,7 @@ repositories {
 
 
 ext {
-	vaadinVersion = '8.1.0'
+	vaadinVersion = '8.2.0'
 }
 
 dependencies {
